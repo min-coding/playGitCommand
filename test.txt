@@ -15,3 +15,6 @@ if we need to merge again to make change to master remote.
 
 The answer to that, yes we need to merge again. 
 But git fetch doesn't work this time. let's investigate. Imma commit and push it to remote now.
+
+it seems like, if you already merge branch to master on remote. and you're trying to use git fetch on local,
+it wouldn't work. BUT YOU CAN MERGE ON LOCAL, like it's a pull. 
