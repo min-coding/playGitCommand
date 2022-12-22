@@ -1,8 +1,1 @@
-branch2 is also changing line 1
-text 2 
-text 3
-text 4
-i am the change from branch2
-text 6
-
-branch 2 will be inside branch 1 (by merging into branch1? or merging into main and have branch 1 pull?)
+restarting shit okay now im in master
