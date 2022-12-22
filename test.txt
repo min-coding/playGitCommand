@@ -1,5 +1,5 @@
 restarting shit okay now im in master
 
-im from my branch. this is a first commit from my branch.
+test my branch again to remote
 
-im from kal branch. I will be merged into main. So I can git fetch main in local to see the change.
+okay test git fetch on master. let's see if the master catch this.
