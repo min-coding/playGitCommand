@@ -12,3 +12,6 @@ or
 
 well it seems like 4 is actually the way. now im updating the changes to min-branch after merge to see
 if we need to merge again to make change to master remote.
+
+The answer to that, yes we need to merge again. 
+But git fetch doesn't work this time. let's investigate. Imma commit and push it to remote now.
