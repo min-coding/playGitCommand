@@ -1,3 +1,5 @@
 restarting shit okay now im in master
 
 im from my branch. this is a first commit from my branch.
+
+im from kal branch. I will be merged into main. So I can git fetch main in local to see the change.
