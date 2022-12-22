@@ -1,1 +1,11 @@
 i am the master
+
+yo it's Min working on Min's branch here. Im expeting to be on main soon.
+so i need to 
+1. commit to min-branch
+2. push to min-branch
+
+but do I have to 
+3. merge to master branch on local?
+or 
+4. merge to master(pull request) on remote? 
