@@ -15,3 +15,5 @@ if we need to merge again to make change to master remote.
 
 The answer to that, yes we need to merge again. 
 But git fetch doesn't work this time. let's investigate. Imma commit and push it to remote now.
+
+Im making change to remote branch. I will merge it. and I will git fetch origin aka <branch name>. then it should show some shit like
