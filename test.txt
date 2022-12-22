@@ -1,1 +1,3 @@
 restarting shit okay now im in master
+
+im from my branch. this is a first commit from my branch.
