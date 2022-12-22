@@ -9,3 +9,6 @@ but do I have to
 3. merge to master branch on local?
 or 
 4. merge to master(pull request) on remote? 
+
+well it seems like 4 is actually the way. now im updating the changes to min-branch after merge to see
+if we need to merge again to make change to master remote.
